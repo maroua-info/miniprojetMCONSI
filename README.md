@@ -144,7 +144,7 @@ club_infotech_clean/
 
 │
 ├── admin/
-├── \n organizer/
+├── organizer/
 ├── participant/
 ├── includes/
 │

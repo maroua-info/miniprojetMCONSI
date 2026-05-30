@@ -144,7 +144,7 @@ club_infotech_clean/
 
 │
 ├── admin/
-├── organizer/
+├── \n organizer/
 ├── participant/
 ├── includes/
 │
@@ -159,19 +159,8 @@ club_infotech_clean/
 
 ---
 
-Auteur
-
-Mini Projet Méthodede Conception des SI
-
-Université 20 Août 1955 Skikda
-
-2025/2026
-## Membres
-Matallah Maroua 
-Bouzrara AYA
-Hamzaoui Farida
-Abdellouche Lina Sérine
-Boubaiou Abdlghafour
-Benahmed Taqiy Eddine
-Semadi Zineddine
+### 📧 Remise
+Email : kasdata2609@gmail.com
+Objet : [Mini-Projet RC] Nom1_Nom2 — Club InfoTech
+Contenu : Lien GitHub + Lien YouTube (démo vidéo)
 

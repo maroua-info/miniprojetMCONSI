@@ -162,5 +162,5 @@ club_infotech_clean/
 ### 📧 Remise
 Email : kasdata2609@gmail.com
 Objet : [Mini-Projet RC] Nom1_Nom2 — Club InfoTech
-Contenu : Lien GitHub + Lien YouTube (démo vidéo)
+Contenu : Lien GitHub + Lien YouTube 
 

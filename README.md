@@ -161,12 +161,17 @@ club_infotech_clean/
 
 Auteur
 
-Mini Projet SI
+Mini Projet Méthodede Conception des SI
 
 Université 20 Août 1955 Skikda
 
 2025/2026
+## Membres
+Matallah Maroua 
+Bouzrara AYA
+Hamzaoui Farida
+Abdellouche Lina Sérine
+Boubaiou Abdlghafour
+Benahmed Taqiy Eddine
+Semadi Zineddine
 
-[Mini-Projet SI] Nom1_Nom2 – Club Info_Tech
-
-ومحتو
